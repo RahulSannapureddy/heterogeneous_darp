@@ -17,4 +17,4 @@ The full source code, architecture diagrams, and documentation will be made publ
 
 ---
 
-**Thank you for your interest!** If you have any questions in the meantime, feel free to reach out via [[Your LinkedIn/Email/Twitter](https://www.linkedin.com/in/rahulsannapureddy)].
+**Thank you for your interest!** If you have any questions in the meantime, feel free to reach out via [[LinkedIn](https://www.linkedin.com/in/rahulsannapureddy), [Email](rahul.sannapureddy@gmail.com)].
