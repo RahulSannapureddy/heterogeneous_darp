@@ -1,4 +1,4 @@
-# heterogeneous_darp 🏆
+# Heterogeneous DARP 🏆
 
 ---
 
