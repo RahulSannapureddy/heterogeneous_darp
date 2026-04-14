@@ -13,7 +13,7 @@ This repository is the home for my submission to the **[Kriti 2026]**.
 > **Note to Visitors:** To adhere to the competition's strict non-disclosure rules regarding code and project concepts during the judging phase, the source code and documentation for this project are currently **private**.
 
 ## 📅 Availability
-The full source code, architecture diagrams, and documentation will be made public on **[15th of March, 2026]** once the competition concludes.
+The full source code, architecture diagrams, and documentation will be made public on **[15th of May, 2026]** once the competition concludes.
 
 ---
 
